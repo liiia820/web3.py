@@ -14,7 +14,6 @@ A Python library for interacting with Ethereum.
 
 [Get started in 5 minutes](https://web3py.readthedocs.io/en/latest/quickstart.html) or
 [take a tour](https://web3py.readthedocs.io/en/latest/overview.html) of the library.
-
 ## Documentation
 
 For additional guides, examples, and APIs, see the [documentation](https://web3py.readthedocs.io/en/latest/).
